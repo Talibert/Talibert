@@ -95,33 +95,26 @@ I am 23 years old, a software developer specializing in Java, and currently work
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d79921&width=435&lines=Statistics)](https://git.io/typing-svg)
 
-<div>
-      <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=Talibert&show_icons=true&theme=gruvbox&include_all_commmits=true&locale=pt-br" 
+  <img 
+    alt="GitHub Stats" 
+    height="200"
+    style="padding-right: 10px; display:block; margin-bottom: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Talibert&show_icons=true&theme=gruvbox&include_all_commmits=true&locale=pt-br" 
   />
 
   <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talibert&layout=donut&theme=gruvbox&locale=pt-br" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px; display:block; margin-bottom: 0px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talibert&layout=donut&theme=gruvbox&locale=pt-br" 
   />
-</div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px; display:block; margin-bottom: 0px;" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Talibert&layout=donut&theme=gruvbox&locale=pt-br" 
+  />
 
 ---
 
@@ -143,5 +136,4 @@ I am 23 years old, a software developer specializing in Java, and currently work
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
 </a>
-
 
