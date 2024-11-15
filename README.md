@@ -97,6 +97,13 @@ I am 23 years old, a software developer specializing in Java, and currently work
 
   <img 
     alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px; display:block; margin-bottom: 0px;" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Talibert&layout=donut&theme=gruvbox&locale=pt-br" 
+  />
+  
+  <img 
+    alt="GitHub Stats" 
     height="200"
     style="padding-right: 10px; display:block; margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Talibert&show_icons=true&theme=gruvbox&include_all_commmits=true&locale=pt-br" 
@@ -107,13 +114,6 @@ I am 23 years old, a software developer specializing in Java, and currently work
     height="200" 
     style="padding-right: 10px; display:block; margin-bottom: 0px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talibert&layout=donut&theme=gruvbox&locale=pt-br" 
-  />
-
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px; display:block; margin-bottom: 0px;" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Talibert&layout=donut&theme=gruvbox&locale=pt-br" 
   />
 
 ---
