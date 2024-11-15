@@ -1,37 +1,107 @@
-<h1 align="center">Hi 👋, I'm Guilherme Taliberti</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d79921&width=435&lines=Full+Stack+Developer;Information+Systems)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Full+Stack+Developer;Software+Engineer)](https://git.io/typing-svg)
+I am 23 years old, a software developer specializing in Java, and currently working at Élin Duxus Consultoria. I am pursuing a degree in Information Systems and hold a degree in Industrial Automation!
 
-- 🔭 Currently work: [Élin Duxus Consultoria](http://duxus.com.br)
+---
 
-- 🌱 Currently learn: **Java and VueJS**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d79921&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
-- 💬 College: **Sistemas de Informação - studying... Automação Industrial - completed.**
+<img align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
 
-- 📫 Reach me: **guilhermetaliberti@gmail.com**
+<img align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
 
-- 📄 Know me better: [https://www.linkedin.com/in/guilhermetaliberti/](https://www.linkedin.com/in/guilhermetaliberti/)
+<img align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
 
-- ⚡ Fun fact: **I'm a gamer**
+<img align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/guilherme taliberti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme taliberti" height="30" width="40" /></a>
-</p>
+<img align="left" 
+    alt="Vue.js" 
+    title="Vue.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
+/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img align="left" 
+    alt="HTML5" 
+    title="HTML5"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
 
-<p>
+<img align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
 
-### 📈 Statistics
+<img align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
 
-<img 
+<img align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+
+<img align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+          
+
+<br/>
+<br/>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d79921&width=435&lines=Statistics)](https://git.io/typing-svg)
+
+<div>
+      <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=Talibert&show_icons=true&theme=neon&include_all_commmits=true&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api?username=Talibert&show_icons=true&theme=gruvbox&include_all_commmits=true&locale=pt-br" 
   />
 
   <img 
@@ -39,6 +109,35 @@
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talibert&layout=donut&theme=neon&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talibert&layout=donut&theme=gruvbox&locale=pt-br" 
   />
-</p>
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d79921&width=435&lines=Contact+and+find+me)](https://git.io/typing-svg)
+
+[<img align="left" 
+    alt="LinkedIn" 
+    title="LinkedIn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+/>](https://www.linkedin.com/in/guilhermetaliberti/)
+[<img align="left" 
+    alt="Gmail" 
+    title="Gmail"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+/>](mailto:guilhermetaliberti@gmail.com)
+
