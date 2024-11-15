@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Taliberti</h1>
-<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Full+Stack+Developer;Software+Engineer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [Élin Duxus Consultoria](http://duxus.com.br)
