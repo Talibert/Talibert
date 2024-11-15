@@ -6,22 +6,6 @@ I am 23 years old, a software developer specializing in Java, and currently work
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d79921&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img
-    alt="GitHub Streak Stats"
-    width="400"  <!-- Ajustando o tamanho -->
-    style="display: inline-block; margin-bottom: 0;"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Talibert&layout=donut&theme=gruvbox&locale=pt-br" 
-  />
-
-  <img
-    alt="GitHub Top Languages"
-    width="400"  <!-- Ajustando o tamanho -->
-    style="display: inline-block; margin-bottom: 0;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talibert&layout=donut&theme=gruvbox&locale=pt-br" 
-  />
-</div>
-
 
 <img align="left" 
     alt="MySQL" 
