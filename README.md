@@ -2,17 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Full+Stack+Developer;Software+Engineer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Élin Duxus Consultoria](http://duxus.com.br)
+- 🔭 Currently work: [Élin Duxus Consultoria](http://duxus.com.br)
 
-- 🌱 I’m currently learning **Java and VueJS**
+- 🌱 Currently learn: **Java and VueJS**
 
-- 💬 College **Sistemas de Informação - studying... Automação Industrial - completed.**
+- 💬 College: **Sistemas de Informação - studying... Automação Industrial - completed.**
 
-- 📫 How to reach me **guilhermetaliberti@gmail.com**
+- 📫 Reach me: **guilhermetaliberti@gmail.com**
 
-- 📄 Know me better [https://www.linkedin.com/in/guilhermetaliberti/](https://www.linkedin.com/in/guilhermetaliberti/)
+- 📄 Know me better: [https://www.linkedin.com/in/guilhermetaliberti/](https://www.linkedin.com/in/guilhermetaliberti/)
 
-- ⚡ Fun fact **I'm a gamer**
+- ⚡ Fun fact: **I'm a gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
