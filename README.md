@@ -15,6 +15,14 @@ I am 23 years old, a software developer specializing in Java, and currently work
 />
 
 <img align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
