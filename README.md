@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d79921&width=435&lines=Full+Stack+Developer;Information+Systems)](https://git.io/typing-svg)
 
-I am 24 years old, a software developer specializing in Java, and currently working at Élin Duxus Consultoria. I am pursuing a degree in Information Systems and hold a degree in Industrial Automation!
+I am 25 years old, a software developer specializing in Java, and currently working at Élin Duxus Consultoria. I am pursuing a degree in Information Systems and hold a degree in Industrial Automation!
 
 ---
 
@@ -90,17 +90,6 @@ I am 24 years old, a software developer specializing in Java, and currently work
 
 <br/>
 <br/>
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d79921&width=435&lines=Language+Statistics)](https://git.io/typing-svg)
-
-  <img
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px; display:block; margin-bottom: 0px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talibert&layout=donut&theme=gruvbox" 
-  />
 
 ---
 
