@@ -7,12 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=d79921&center=true&vCenter=true&width=550&lines=Software+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Quarkus;Kafka+%E2%80%A2+RabbitMQ+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;Enterprise+Databases+%E2%80%A2+Microservices" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <a href="https://github.com/Talibert">
-      <img src="https://komarev.com/ghpvc/?username=Talibert&label=Profile%20Views&color=d79921&style=flat-square" alt="Profile Views" />
-    </a>
-  </p>
-
   <!-- Quick Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/guilherme-taliberti" target="_blank">
