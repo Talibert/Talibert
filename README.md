@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Guilherme%20Taliberti&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%26%20Distributed%20Systems&descAlignY=58&descAlign=50" width="100%" alt="Guilherme Taliberti Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Guilherme%20Taliberti&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%E2%80%A2%20Distributed%20Systems&descAlignY=58&descAlign=50" width="100%" alt="Guilherme Taliberti Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=d79921&center=true&vCenter=true&width=550&lines=Software+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Quarkus;Kafka+%E2%80%A2+RabbitMQ+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;Enterprise+Databases+%26+Microservices" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=d79921&center=true&vCenter=true&width=550&lines=Software+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Quarkus;Kafka+%E2%80%A2+RabbitMQ+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;Enterprise+Databases+%E2%80%A2+Microservices" alt="Typing SVG" />
   </a>
 
   <p align="center">
