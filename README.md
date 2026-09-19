@@ -97,5 +97,5 @@
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/Talibert">Guilherme Taliberti</a></sub>
+  <sub>Designed by <a href="https://github.com/Talibert">Guilherme Taliberti</a></sub>
 </div>
